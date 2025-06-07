@@ -3,4 +3,5 @@ A collection of projects demonstrating the use of the IntersectionObserver API i
 
 
 | Project Name | Description | Live Demo |
+|----------------------|-----------------------------------------------------------------|--------------------------|
 | Simple Project | A basic example to observe a single section when it enters the viewport | [Demo](https://github.com/Obada-barakat/intersection-observer-demos/Simple-demo/)
