@@ -5,5 +5,5 @@ A collection of projects demonstrating the use of the IntersectionObserver API i
 
 | Project Name         | Description                                                     | Live Demo               |
 |----------------------|-----------------------------------------------------------------|--------------------------|
-| **Simple Demo**      | A basic example that uses IntersectionObserver to detect when a section enters the viewport. | [Live](https://yourusername.github.io/your-repo-name/simple-demo/)|
+| **Simple Demo**      | A basic example that uses IntersectionObserver to detect when a section enters the viewport. | [Live](https://github.com/Obada-barakat/intersection-observer-demos/Simple-demo/)|
 | **Advanced Demo** *(Coming Soon)* | A more complex demo using multiple elements and lazy loading techniques. | *Coming Soon*            |
