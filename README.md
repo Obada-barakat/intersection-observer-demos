@@ -7,5 +7,5 @@ A collection of projects demonstrating the use of the IntersectionObserver API i
 |----------------------|-----------------------------------------------------------------|--------------------------|
 | **Simple Demo**      | A basic example that uses IntersectionObserver to detect when a section enters the viewport. | [Live](https://obada-barakat.github.io/intersection-observer-demos/Simple-demo)|
 | **Simple Demo**    | A basic example that uses IntersectionObserver to detect when a section enters the viewport, and a section with animated pictures | [Live](https://obada-barakat.github.io/intersection-observer-demos/second-demo) |
-| One Page Website | A full one page website shows examples of using Intersection Observer | [Demo](https://obada-barakat.github.io/intersection-observer-demos/one-page-website)
+| One Page Website | A full one page website shows examples of using Intersection Observer | [Live](https://obada-barakat.github.io/intersection-observer-demos/one-page-website)
 | **Advanced Demo** *(Coming Soon)* | A more complex demo using multiple elements and lazy loading techniques. | *Coming Soon*            |
